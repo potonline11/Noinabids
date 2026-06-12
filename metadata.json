@@ -1,0 +1,6 @@
+{
+  "name": "LuxePenny",
+  "description": "แพลตฟอร์มประมูลสินค้าหรูออนไลน์แบบประมูลเพนนีที่สุดล้ำ ทันสมัย ปลอดภัย และตื่นเต้นเร้าใจทุกวินาที ด้วยระบบจำลองผู้เข้าร่วมประมูลสด ภาพกราฟิกสวยงาม และเสียงประกอบระดับพรีเมียม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
